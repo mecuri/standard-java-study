@@ -1,4 +1,4 @@
-package exam6;
+package exam7.exam6;
 
 public class OvershadowTest {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class OvershadowTest {
 
         System.out.println();
         Vehicle v = c;
-
+        
         v.show();
     }
 }
