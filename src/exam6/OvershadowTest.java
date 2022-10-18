@@ -8,6 +8,7 @@ public class OvershadowTest {
 
         System.out.println();
         Vehicle v = c;
+        
         v.show();
     }
 }
